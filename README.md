@@ -1,2 +1,6 @@
-# Get-Back-Customer
-Get Your Customers Back - An Analytical Approach to win-back your Customers
+# Get Your Customers Back - An Analytical Approach to win-back your Customers
+<p>Domain: Marketing and Retail Analytics</p>
+<p>Skills: Neural Networks, Principal Component Analysis, Sentiment Analysis, Machine Learning, Exploratory Data Analysis</p>
+<p>Description: <li>This project aims to understand customer’s behaviour towards a Retail Brand Adore-Tech & Trends, using Analytics techniques like -Customer Segmentation, Churn Analysis and Customer Sentiment Analysis. In this regard it presents steps to achieve customer segmentation based on behaviour, using RFM (Recency, Frequency & Monetary) clustering technique. It also includes creation of various analytical models for predicting Customer Churn using Logistic Regression, Bagging and Boosting techniques. The resultant base model is benchmarked against Hyperparameter tuned model outputs and Feature Selection Model Outputs. • Techniques: RFM Segmentation, Behaviour, Churn, Sentiment Analysis, Word Embedding, Vectorization • Tools: Python • Domain: Retail & Marketing Analytics</li>
+<li>This project will help ● Segment the customers into different segments ● Identify the reason for customer churn ● Customer’s sentiment about the brand ● Identify top keywords being frequently used by customers on Social Media to describe the brand
+</li></p>
